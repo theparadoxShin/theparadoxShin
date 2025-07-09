@@ -1,3 +1,7 @@
+## Version
+[![English](https://img.shields.io/badge/Language-English-blue)](README.md)
+[![Français](https://img.shields.io/badge/Language-Français-red)](README.fr.md)
+
 ## 👋 Hello, I'm Parfait Tedom Tedom !
 I am a Full-Stack Software Engineer passionate about building bridges between the physical world and the digital universe of Cloud and AI.
 
