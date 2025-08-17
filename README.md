@@ -12,9 +12,9 @@
 
 ## 🎯 Current Focus
 
-🌱 **Building** [AI Insight Engine](https://github.com/theparadoxshin) - Open source platform for testing, comparing AI APIs, give free and 
-☁️ **Mastering** AWS, Azure & Google Cloud architectures  
-🔧 **Strengthening** Laravel & React ecosystem expertise  
+- 🌱 **Building** [AI Insight Engine](https://github.com/theparadoxshin/AI_insight_engine) - Open source platform for testing, comparing AI APIs, give free snippet code and features ! test it on vercel [Link AI Insight Engine](https://ai-insight-engine.vercel.app)
+- ☁️ **Mastering** AWS, Azure & Google Cloud architectures  
+- 🔧 **Strengthening** MERN, LAMP, Laravel & IoT ecosystem expertise  
 
 ## 💻 Tech Stack
 
@@ -91,6 +91,8 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=theparadoxshin&color=blueviolet&style=for-the-badge)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+<p align="center">
+<i>⭐️ Feel free to explore my repositories and give me feedback!</i>
+</p>
   
 </div>
