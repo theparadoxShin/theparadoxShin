@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=021f2c&center=true&vCenter=true&width=700&lines=+Building+bridges+between+physical+%26+digital+worlds;Mechatronics+%E2%9E%A1+Full-Stack+%E2%9E%A1+Cloud+%26+AI;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36bcf7&center=true&vCenter=true&width=700&lines=+Building+bridges+between+physical+%26+digital+worlds;Mechatronics+%E2%9E%A1+Full-Stack+%E2%9E%A1+Cloud+%26+AI;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
   
 </div>
 
