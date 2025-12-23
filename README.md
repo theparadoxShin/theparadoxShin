@@ -51,6 +51,8 @@
 
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
 [![CompTIA](https://img.shields.io/badge/CompTIA-ITF%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/it-fundamentals)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-ai-practitioner/)
 
 </div>
 
