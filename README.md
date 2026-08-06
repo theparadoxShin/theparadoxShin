@@ -10,12 +10,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🌱 **Building** [AI Insight Engine](https://github.com/theparadoxshin/AI_insight_engine) - Open source platform for testing, comparing AI APIs, give free snippet code and features ! test it on vercel [Link AI Insight Engine](https://ai-insight-engine.vercel.app)
-- ☁️ **Mastering** AWS, Azure & Google Cloud architectures  
-- 🔧 **Strengthening** MERN, LAMP, Laravel & IoT ecosystem expertise  
-
 ## 💻 Tech Stack
 
 <div align="center">
