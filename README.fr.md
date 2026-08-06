@@ -3,18 +3,9 @@
 [![Français](https://img.shields.io/badge/Language-Français-red)](README.fr.md)
 
 ## 👋 Bonjour, je suis Parfait Tedom Tedom !
-Je suis un Ingénieur Logiciel Full-Stack passionné par la construction de ponts entre le monde physique et l'univers numérique du Cloud et de l'IA.
+Je suis un Ingénieur Full-Stack passionné par la construction de ponts entre le monde physique et l'univers numérique du Cloud et de l'IA.
 
 Mon parcours a commencé en mécatronique, où j'ai appris à donner vie aux machines, et s'est poursuivi avec une expertise en systèmes et réseaux, où j'ai appris à les faire communiquer. Aujourd'hui, je mets cette double compétence au service du développement de solutions logicielles robustes et intelligentes.
-
-## 🚀 Ce sur quoi je travaille en ce moment
-Actuellement, je suis en pleine exploration de l'écosystème de l'Intelligence Artificielle et du Cloud. Mon objectif est de maîtriser les services d'AWS, Azure et Google Cloud pour construire des applications innovantes.
-
-🌱 Je développe AI Insight Engine, une plateforme open source conçue pour aider les développeurs à tester, comparer et intégrer facilement les API d'IA des grands fournisseurs cloud.
-
-☁️ Je me plonge dans les architectures serverless, l'Infrastructure as Code (IaC) et les pipelines CI/CD pour automatiser et sécuriser le déploiement d'applications.
-
-🔧 Je continue de renforcer mes compétences en développement Full-Stack, notamment avec Laravel et l'écosystème React.
 
 ## 🛠️ Ma Boîte à Outils Technique
 Voici un aperçu des technologies avec lesquelles j'aime construire :
